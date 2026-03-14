@@ -1,4 +1,4 @@
-# 🎙️ echomood
+# 🎙️ Speech-ER
 
 > Classifying human emotion from raw speech using deep learning on the RAVDESS dataset.
 
